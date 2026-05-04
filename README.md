@@ -30,32 +30,56 @@ const huzaifa = {
 
 <br/>
 
-### 🎯 What I'm Up To
+## 🎯 What I'm Currently Working On
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Advanced-purple?style=for-the-badge" />
+</p>
+
+---
 
 <table>
 <tr>
-<td align="center" width="50%">
 
-🔭 **Currently Building**
-- Enterprise Management Systems
-- Cross-Platform Mobile Apps
-- RESTful APIs & Microservices
-- Modern Web Dashboards
+<td width="50%" align="center">
 
-</td>
-<td align="center" width="50%">
+### 🔭 Currently Building
 
-🌱 **Currently Learning**
-- Advanced Flutter Animations
-- Express.js & Node.js
-- Cloud Architecture (AWS/Azure)
-- TypeScript & Next.js
+🚀 Enterprise-Level Management Systems  
+📱 Cross-Platform Mobile Applications  
+⚙️ Scalable RESTful APIs & Microservices  
+📊 Modern Admin Dashboards & Portals  
+🧠 Real-World Business Solutions  
 
 </td>
+
+<td width="50%" align="center">
+
+### 🌱 Currently Learning
+
+🔥 Advanced Flutter Animations & UI  
+⚡ Node.js + Express.js Backend Mastery  
+☁️ Cloud Architecture (AWS / Azure Basics)  
+🚀 TypeScript & Next.js Ecosystem  
+🧩 System Design & Scalability Concepts  
+
+</td>
+
 </tr>
 </table>
 
 ---
+
+### 💡 Development Mindset
+
+<p align="center">
+  💻 Code • ⚙️ Build • 🚀 Deploy • 📈 Improve • 🔥 Scale
+</p>
+
+---
+
 
 ## 🛠️ Tech Arsenal
 
