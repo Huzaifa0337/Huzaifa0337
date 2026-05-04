@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=300&section=header&text=Huzaifa%20Tariq&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20|%20Mobile%20App%20Architect&descAlignY=55&descSize=25" width="100%" />
 
 # 👋 Hey there, I'm Huzaifa Tariq
 
