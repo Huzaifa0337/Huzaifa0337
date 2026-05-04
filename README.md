@@ -169,25 +169,64 @@ const huzaifa = {
 
 ---
 
-
 ## 🎓 Education & Certifications
 
 <p align="center">
-  
-**🏆 3 Years Diploma in Software Engineering** - *Aptech Computer Education*
+  <img src="https://img.shields.io/badge/🎓-Education-blue?style=for-the-badge" />
+</p>
 
-**Core Competencies:**
-- Web Development (Full Stack)
-- Mobile Application Development
-- Database Management & Optimization
-- Object-Oriented Programming
-- Software Development Life Cycle (SDLC)
-- UI/UX Design Principles
-- Version Control & Collaboration
+<p align="center">
+  
+### 🏆 3 Years Diploma in Software Engineering  
+**Aptech Computer Education**
 
 </p>
 
 ---
+
+## 🧠 Core Competencies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Web%20Development-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mobile-App%20Development-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database-Management-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-Principles-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/SDLC-Agile%20Process-red?style=flat-square" />
+</p>
+
+---
+
+### 🚀 Technical Skills
+
+- 🌐 **Web Development (Full Stack)**
+  - ASP.NET MVC | PHP Laravel | Node.js
+
+- 📱 **Mobile Application Development**
+  - Flutter | React Native | Dart
+
+- 🗄️ **Database Management**
+  - SQL Server | MySQL | MongoDB | Optimization
+
+- 🧩 **Programming Concepts**
+  - Object-Oriented Programming (OOP)
+  - REST APIs | MVC Architecture
+
+- 🎨 **UI/UX & Design**
+  - Figma Basics | Responsive Design | Clean UI Principles
+
+- 🔧 **Tools & Collaboration**
+  - Git | GitHub | Version Control | Team Collaboration
+
+---
+
+## 🏅 Focus Areas
+
+<p align="center">
+  💻 Problem Solving • 🚀 Scalable Applications • 🎯 Clean Architecture • ⚡ Performance Optimization
+</p>
+
+---
+
 
 ## 💼 Professional Expertise
 
