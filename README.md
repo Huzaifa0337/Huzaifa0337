@@ -311,16 +311,6 @@ const huzaifa = {
 
 </details>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa0337&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
