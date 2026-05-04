@@ -290,7 +290,7 @@ const huzaifa = {
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa0337&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa0337&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
