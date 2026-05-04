@@ -83,9 +83,10 @@ const huzaifa = {
 ### 🗄️ Database & Backend Services
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase,mssql" />
   </a>
 </p>
+
 
 ### 🔧 Tools & Platforms
 <p>
