@@ -16,17 +16,17 @@
 ---
 
 ### 💫 About Me
-
-```javascript
-const huzaifa = {
-    location: "Karachi, Pakistan 🇵🇰",
+<p>
+  location: "Karachi, Pakistan 🇵🇰",
     education: "Diploma in Software Engineering 🎓",
     currentFocus: ["ASP.NET Core", "Laravel", "Flutter", "MERN Stack"],
     passions: ["Building Scalable Apps", "Clean Code", "UI/UX Design"],
     funFact: "I turn coffee ☕ into code and ideas into applications! 🚀",
     availability: "Open to freelance projects & collaborations 🤝"
+</p>
+const huzaifa = {
+    
 };
-```
 
 <br/>
 
@@ -220,7 +220,7 @@ const huzaifa = {
 ## 🤝 Let's Connect & Collaborate!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/huzaifa-tariq" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:huzaifatariqaptech@gmail.com">
@@ -228,9 +228,6 @@ const huzaifa = {
   </a>
   <a href="https://github.com/Huzaifa0337" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/huzaifa0337" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
