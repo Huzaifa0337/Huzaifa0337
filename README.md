@@ -66,12 +66,20 @@ const huzaifa = {
   </a>
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development / CMS
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,nodejs,express,dart" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,nodejs,express,dart,mysql" />
   </a>
 </p>
+
+### 🧩 CMS
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+  </a>
+</p>
+
 
 ### 📱 Mobile Development
 <p>
