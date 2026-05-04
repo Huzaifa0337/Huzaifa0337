@@ -67,7 +67,7 @@
 <h3>📫 Connect with me</h3>
 
 <p>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
