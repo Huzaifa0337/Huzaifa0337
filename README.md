@@ -62,14 +62,14 @@ const huzaifa = {
 ### 🎨 Frontend Development
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,flutter" />
   </a>
 </p>
 
 ### ⚙️ Backend Development
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,nodejs,express,dart" />
   </a>
 </p>
 
