@@ -16,17 +16,17 @@
 ---
 
 ### 💫 About Me
-<p>
-  location: "Karachi, Pakistan 🇵🇰",
+
+```javascript
+const huzaifa = {
+    location: "Karachi, Pakistan 🇵🇰",
     education: "Diploma in Software Engineering 🎓",
     currentFocus: ["ASP.NET Core", "Laravel", "Flutter", "MERN Stack"],
     passions: ["Building Scalable Apps", "Clean Code", "UI/UX Design"],
-    funFact: "I turn coffee ☕ into code and ideas into applications! 🚀",
+    funFact: "I turn coffee into code and ideas into applications! 🚀",
     availability: "Open to freelance projects & collaborations 🤝"
-</p>
-const huzaifa = {
-    
 };
+```
 
 <br/>
 
