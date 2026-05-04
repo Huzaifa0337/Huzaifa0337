@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:702cfd&height=300&section=header&text=Huzaifa%20Tariq&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20|%20Mobile%20App%20Architect&descAlignY=55&descSize=25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=300&section=header&text=Huzaifa%20Tariq&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20|%20Mobile%20App%20Architect&descAlignY=55&descSize=25" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
