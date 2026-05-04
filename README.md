@@ -5,7 +5,7 @@
 ### Full Stack Developer | Web & Mobile Application Developer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifatariq&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="huzaifatariq" />
+  <img src="https://komarev.com/ghpvc/?username=Huzaifa0337&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Huzaifa0337" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 | :--- | :--- |
 | **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react" /></a> |
 | **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,nodejs,express" /></a> |
-| **Database** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" /></a> |
+| **Database** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,mssql" /></a> |
 | **Tools & Platforms** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,firebase" /></a> |
 | **UI/UX & Design** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,photoshop" /></a> |
 
@@ -42,12 +42,12 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huzaifatariq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifatariq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Huzaifa0337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa0337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifatariq&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa0337&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <br/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-  <a href="https://github.com/huzaifatariq" target="_blank">
+  <a href="https://github.com/Huzaifa0337" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
