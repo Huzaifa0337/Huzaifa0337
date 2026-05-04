@@ -98,7 +98,7 @@ const huzaifa = {
 
 ## 📊 GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Huzaifa0337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa0337&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" />
 </p>
@@ -107,7 +107,7 @@ const huzaifa = {
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa0337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF&langs_count=8" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Huzaifa0337&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p> -->
 
