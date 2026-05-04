@@ -227,50 +227,67 @@ const huzaifa = {
 
 ---
 
-
 ## 💼 Professional Expertise
 
-<details>
-<summary><b>🌐 Web Development</b></summary>
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-Full%20Stack%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-Apps-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-purple?style=for-the-badge" />
+</p>
 
-- ✅ Responsive & Progressive Web Apps
-- ✅ RESTful API Design & Development
-- ✅ Authentication & Authorization (JWT, OAuth)
-- ✅ Payment Gateway Integration
-- ✅ Admin Panels & Dashboards
-- ✅ E-Commerce Solutions
+---
 
-</details>
+### 🌐 Web Development Expertise
 
 <details>
-<summary><b>📱 Mobile Development</b></summary>
+<summary><b>Click to expand</b></summary>
 <br>
 
-- ✅ Cross-Platform Apps (Flutter)
-- ✅ Native-like Performance
-- ✅ State Management (Provider, Riverpod, Bloc)
-- ✅ Firebase Integration
-- ✅ Push Notifications
-- ✅ In-App Purchases
-
-</details>
-
-<details>
-<summary><b>🎨 Design & UI/UX</b></summary>
-<br>
-
-- ✅ Wireframing & Prototyping
-- ✅ Responsive Design
-- ✅ Material Design & iOS Guidelines
-- ✅ Animation & Micro-interactions
-- ✅ Adobe Photoshop & Figma
+- 🚀 Responsive & Progressive Web Applications (PWA)
+- 🔗 RESTful API Design & Integration
+- 🔐 Secure Authentication & Authorization (JWT / OAuth)
+- 💳 Payment Gateway Integration (Stripe / Local APIs)
+- 🧑‍💼 Admin Panels & Role-Based Dashboards
+- 🛒 Scalable E-Commerce Solutions
 
 </details>
 
 ---
 
-## 📈 Contribution Graph
+### 📱 Mobile Development Expertise
+
+<details>
+<summary><b>Click to expand</b></summary>
+<br>
+
+- 📲 Cross-Platform App Development (Flutter / React Native)
+- ⚡ High Performance Native-Like Applications
+- 🔄 State Management (Provider / Riverpod / BLoC)
+- 🔥 Firebase Integration (Auth, Firestore, Notifications)
+- 📩 Push Notifications System
+- 💰 In-App Purchases & Monetization
+
+</details>
+
+---
+
+### 🎨 UI/UX & Design Expertise
+
+<details>
+<summary><b>Click to expand</b></summary>
+<br>
+
+- 🧩 Wireframing & Interactive Prototyping
+- 📱 Mobile-First Responsive Design
+- 🎯 Material Design & iOS Human Guidelines
+- ✨ Smooth Animations & Micro-Interactions
+- 🖌️ Figma | Adobe Photoshop (UI Design Workflow)
+
+</details>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa0337&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF" />
