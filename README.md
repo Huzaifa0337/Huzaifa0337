@@ -99,7 +99,7 @@ const huzaifa = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Huzaifa0337&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Huzaifa0337&show_icons=true&theme=tokyonight&hide_border=true" /> -->
 
   <img width="49%" src="https://streak-stats.demolab.com?user=Huzaifa0337&theme=tokyonight&hide_border=true" />
 </p>
