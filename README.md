@@ -124,38 +124,51 @@ const huzaifa = {
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 💼 Web Applications
-- 📦 **Inventory Management System**
-  - ASP.NET MVC | SQL Server
-- 🏫 **School Management System**
-  - ASP.NET MVC | SQL Server
-- 💉 **COVID Booking System**
-  - Laravel | MySQL | Bootstrap
-- 🚑 **Ambulance Tracking System**
-  - Real-time tracking | Google Maps API
-- 💰 **POS & Invoice Manager**
-  - Laravel | Payment Integration
+
+- 📦 **Inventory Management System**  
+  _ASP.NET MVC | SQL Server | CRUD Operations_
+
+- 🏫 **School Management System**  
+  _ASP.NET MVC | SQL Server | Role-based System_
+
+- 💉 **COVID Booking System**  
+  _Laravel | MySQL | Bootstrap | Online Booking_
+
+- 🚑 **Ambulance Tracking System**  
+  _Real-time Tracking | Google Maps API | Live Location_
+
+- 💰 **POS & Invoice Manager**  
+  _Laravel | Invoice System | Payment Integration_
 
 </td>
+
 <td width="50%">
 
 ### 📱 Mobile Applications
-- 💪 **MERN Fitness Tracker**
-  - React Native | MongoDB | Express
-- 🛒 **E-Commerce Mobile App**
-  - Flutter | Firebase | Stripe
-- 📊 **Admin Dashboard App**
-  - Flutter | REST API Integration
-- 🎯 **Task Management App**
-  - Dart | Local Storage | Animations
+
+- 💪 **Fitness Tracker App**  
+  _MERN Stack | React Native | MongoDB | Progress Tracking_
+
+- 🛒 **E-Commerce Mobile App**  
+  _Flutter | Firebase | Stripe Payments | Cart System_
+
+- 📊 **Admin Dashboard App**  
+  _Flutter | REST API | Analytics Dashboard_
+
+- 🎯 **Task Management App**  
+  _Dart | Local Storage | Clean UI | Animations_
 
 </td>
+
 </tr>
 </table>
 
 ---
+
 
 ## 🎓 Education & Certifications
 
