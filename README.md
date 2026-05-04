@@ -120,6 +120,8 @@ const huzaifa = {
 ### 💼 Web Applications
 - 📦 **Inventory Management System**
   - ASP.NET MVC | SQL Server
+- 📦 **School Management System**
+  - ASP.NET MVC | SQL Server
 - 💉 **COVID Booking System**
   - Laravel | MySQL | Bootstrap
 - 🚑 **Ambulance Tracking System**
