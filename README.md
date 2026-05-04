@@ -86,7 +86,7 @@ const huzaifa = {
 ### 🎨 Frontend Development
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,flutter" />
   </a>
 </p>
 
